@@ -25,7 +25,7 @@ from Bio import Entrez
 from Bio import Medline
 
 MAX_COUNT = 100
-Entrez.email = 'a-nai@yandex.ru'
+Entrez.email = '*@yandex.ru'
 articles=[];genes_cancer_poor=[];genes_cancer_poor1=[];
 
 
